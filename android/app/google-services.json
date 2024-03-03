@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568955280845",
+    "project_id": "mobile-itsd82",
+    "storage_bucket": "mobile-itsd82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568955280845:android:5d6e1e38f25439b570b884",
+        "android_client_info": {
+          "package_name": "com.example.mobile2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHvJ6S44UMNeYG6VxOwu8VmvqZvXhz04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
